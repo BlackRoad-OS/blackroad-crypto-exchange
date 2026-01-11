@@ -1,26 +1,25 @@
-# 🖤🛣️ BlackRoad Crypto Exchange
+# BlackRoad Crypto Exchange
 
-Part of the BlackRoad Product Empire - 350+ enterprise solutions
+Self-hosted cryptocurrency exchange with full sovereignty over your trading infrastructure.
 
-## 🚀 Quick Start
+## Features
 
-```bash
-./blackroad-crypto-exchange.sh
-```
+- **Multi-Asset** - BTC, ETH, stablecoins, tokens
+- **Order Book** - High-performance matching engine
+- **Custody** - Self-hosted wallet management
+- **Compliance** - KYC/AML integration
+- **APIs** - REST, WebSocket, FIX
+- **Self-Hosted** - Your keys, your exchange
 
-## 🎨 BlackRoad Design System
+## Trading Features
 
-- **Hot Pink**: #FF1D6C
-- **Amber**: #F5A623  
-- **Electric Blue**: #2979FF
-- **Violet**: #9C27B0
+- Spot trading
+- Limit & market orders
+- Stop-loss & take-profit
+- Portfolio tracking
+- Real-time charts
 
-## 📚 Documentation
+## License
 
-Full docs: https://docs.blackroad.io
-
-## 🖤 BlackRoad Empire
-
-Part of 350+ products across 46 categories. Built with ∞ vision.
-
-**BlackRoad OS, Inc.** | Built with Claude
+Copyright (c) 2026 BlackRoad OS, Inc. All rights reserved.
+Proprietary software. For licensing: blackroad.systems@gmail.com
